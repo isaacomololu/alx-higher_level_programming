@@ -1,6 +1,6 @@
 #!/usr/bin/python3
+#6-square.py created by Omololu Isaac
 """My square module"""
-
 
 class Square:
     """defines a square"""
