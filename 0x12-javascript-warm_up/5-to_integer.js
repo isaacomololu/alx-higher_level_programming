@@ -1,3 +1,4 @@
+#!/usr/bin/node
 const parsedInt = parseInt(process.argv[2]);
 
 if (!isNaN(parsedInt)) {
